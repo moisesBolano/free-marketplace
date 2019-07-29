@@ -1,10 +1,10 @@
 # free-marketplace
 An free market plave
 
-Back-END
+Back-END:
 Node.js+Express+Mysql+JWT 
 
-Front-end
+Front-end:
 React.js+Bootstrap
 
 How to install 
