@@ -3,6 +3,7 @@ An free market plave
 
 Back-END
 Node.js+Express+Mysql+JWT 
+
 Front-end
 React.js+Bootstrap
 
